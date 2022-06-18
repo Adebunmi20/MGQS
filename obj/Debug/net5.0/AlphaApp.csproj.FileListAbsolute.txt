@@ -1,0 +1,5 @@
+C:\Users\Adebunmi\desktop\AlphaApp\obj\Debug\net5.0\AlphaApp.csproj.AssemblyReference.cache
+C:\Users\Adebunmi\desktop\AlphaApp\obj\Debug\net5.0\AlphaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adebunmi\desktop\AlphaApp\obj\Debug\net5.0\AlphaApp.AssemblyInfoInputs.cache
+C:\Users\Adebunmi\desktop\AlphaApp\obj\Debug\net5.0\AlphaApp.AssemblyInfo.cs
+C:\Users\Adebunmi\desktop\AlphaApp\obj\Debug\net5.0\AlphaApp.csproj.CoreCompileInputs.cache
